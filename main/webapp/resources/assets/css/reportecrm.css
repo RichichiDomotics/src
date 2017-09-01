@@ -1,0 +1,61 @@
+@CHARSET "utf-8";
+
+.contenidoGeneral{
+    width: 98%;
+}
+
+.contenidoReporteEtapas{
+    width: 100%;
+}
+
+.contenidoReporteEtapas .contenidoTablaEtapa{
+    padding-left: 100px;
+    padding-right: 100px;
+    align-content: center;
+    width: 70%;
+}
+
+.contenidoReporteEtapas .graficas4{
+    padding-left: 300px;
+    margin-left: 300px;
+    width: 120%;
+}
+
+.contenidoReporteEstatus{
+    width: 100%;
+}
+
+.contenidoReporteEstatus .contenidoTablaEstatus{
+    padding-left: 100px;
+    padding-right: 100px;
+    align-content: center;
+    width: 70%;
+}
+
+.contenidoReporteEstatus .graficas4{
+    padding-left: 300px;
+    margin-left: 300px;
+    width: 120%;
+}
+
+.contenidoReporteEjecutivos{
+    width: 100%;
+}
+
+.contenidoReporteEjecutivos .contenidoTablaEjecutivos .span4{
+    width: 100%;
+}
+
+.contenidoReporteEjecutivos .contenidoTablaEjecutivos .span4 .widget-box{
+    width: 100%;
+}
+
+.contenidoReporteEjecutivos .contenidoTablaEjecutivos{
+    width: 35.5%;
+    margin-left: -5px;
+}
+
+.contenidoReporteEjecutivos .graficasDetalle{
+    margin-left: 50px;
+    width: 100%;
+}
